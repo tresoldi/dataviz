@@ -2,4 +2,4 @@
 
 Repository for the dataviz course
 
-This is my first change
+This is the status of README after the work in progress
